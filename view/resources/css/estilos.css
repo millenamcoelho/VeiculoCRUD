@@ -1,0 +1,9 @@
+.messages {
+	color: blue;
+	font-weight: bold;
+}
+
+.messages_error {
+	color: red;
+	font-weight: bold;
+}
